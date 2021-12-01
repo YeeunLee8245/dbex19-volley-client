@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text_mode">가로 모드</string>
+    <string name="text_model">코리안 춘배</string>
+</resources>
